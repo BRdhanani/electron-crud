@@ -1,0 +1,16 @@
+{
+  "name": "electron-crud",
+  "version": "1.0.0",
+  "description": "Electron crud",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Brijesh Dhanani",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^16.5.2",
+    "electron": "^9.2.0",
+    "postinstall": "^0.7.0"
+  }
+}
